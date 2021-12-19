@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML projects, predictice analytics, forecasting and perception.
 - 📫 How to reach me:
      Email: deomujinga@gmail.com
-     LinkedIn:linkedin.com/in/deo-mujinga-95208a7a
+     LinkedIn: linkedin.com/in/deo-mujinga-95208a7a
      Tableau: https://public.tableau.com/app/profile/deo8376
 
 <!---
