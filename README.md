@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Deo Mujinga
 - 👀 I’m interested in Data Sciences in the ML branch. Analyszing, predicting or forecasting data for better decision making.
-- 🌱 I’m currently doing my masters in Business Analytics
-- 💞️ I’m looking to collaborate on ML projects, predictice analytics, forecasting and perception.
+- 💞️ I’m looking to collaborate on ML and DS projects.
 - 📫 How to reach me:
      Email: deomujinga@gmail.com
      LinkedIn: linkedin.com/in/deo-mujinga-95208a7a
